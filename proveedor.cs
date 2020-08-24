@@ -12,9 +12,6 @@ namespace CapaDatos
 {
     class DProveedor
     {
-        /*Israel*/
-         /*Israel*/
-          /*Israel*/
         public int IdProveedor { get; set; }
         public string NombreProveedor { get; set; }
         public string RazonSProveedor { get; set; }
